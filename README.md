@@ -1,49 +1,56 @@
-# 🌐 Portfolio Interactif – Élisée Maouly
+# ⚡️ Portfolio Cyberpunk – Élisée Maouly
 
-Bienvenue sur mon portfolio interactif, conçu en HTML5, CSS3 et JavaScript pour mettre en avant mes compétences en développement web.
+Bienvenue dans mon **portfolio immersif** inspiré de l’univers **cyberpunk**, réalisé en **HTML, CSS et JavaScript**.  
+Ce projet vise à proposer une interface futuriste, originale et interactive pour me présenter en tant que développeur web passionné.
 
-## 👨‍💻 À propos de moi
+---
 
-Je suis **Élisée Maouly**, étudiant en BTS SIO (option SISR) passionné par le développement web et les nouvelles technologies. Je suis actuellement à la recherche d'une alternance pour approfondir mes compétences et contribuer à des projets concrets.
+## 🧠 Concept
 
-## ✨ Fonctionnalités du portfolio
+> Une interface de style terminal, des effets de texte typés "hacking", un thème néon, et une ambiance immersive.
 
-- 🌗 **Mode sombre/claire** avec mémorisation
-- 🎯 **Animations au scroll**
-- ⚙️ **Texte animé à l'arrivée**
-- 📱 **Design responsive**
-- 💼 **Présentation de projets**
-- 📊 **Compétences avec barres de progression**
-- 📩 **Formulaire de contact stylé**
+Ce portfolio est conçu pour marquer les esprits et proposer une expérience unique aux visiteurs.
 
-## 🛠️ Stack utilisée
+---
 
-- HTML5
-- CSS3 (Flexbox, Grid, Transitions)
-- JavaScript (DOM, localStorage)
-- [Optionnel] AOS.js / ScrollReveal pour effets au scroll
+## ✨ Fonctionnalités
+
+- 🎯 Interface en mode **terminal futuriste**
+- 👨‍💻 **Texte animé** type "hacking"
+- 🌗 **Thème Cyberpunk** activable avec persistence (localStorage)
+- 🌀 **Animations au scroll** avec effet "reveal"
+- 🧪 Design **100% responsive**
+- 🎨 Couleurs **néon**, typographie monospace, esthétique hacking
+- 📬 **Formulaire de contact** stylisé
+
+---
 
 ## 📁 Structure du projet
 
 ```
-/
-├── index.html
-├── style.css
-├── script.js
-└── assets/ (à créer pour les images, icônes...)
+portfolio-cyberpunk/
+├── index.html         # Structure HTML
+├── style.css          # Style cyberpunk (dark + neon)
+├── script.js          # Interactions JS (scroll, thème)
+└── README.md          # Ce fichier
 ```
-
-## 🚀 Déploiement
-
-Ce portfolio est hébergé grâce à **GitHub Pages** :  
-🔗 [https://noxliz.github.io/portfolio](https://noxliz.github.io/portfolio) *(URL à adapter après publication)*
-
-## 📫 Contact
-
-- 📧 Email : <t.heymao@gmail.com>
-- 🧑‍💻 GitHub : [@Noxliz](https://github.com/Noxliz)
-- 📍 Localisation : Paris, France
 
 ---
 
-Merci de votre visite !
+## 🛠️ Stack utilisée
+
+- **HTML5 / CSS3 / JavaScript pur**
+- Aucune librairie externe
+- Code 100% personnalisé et commenté
+
+---
+
+## 📫 Me contacter
+
+- 📧 Email : t.heymao@gmail.com
+- 🧑‍💻 GitHub : [@Noxliz](https://github.com/Noxliz)
+- 🗺️ Localisation : Paris, France
+
+---
+
+> © 2025 Élisée Maouly – Tous droits réservés.
